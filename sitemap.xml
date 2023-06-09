@@ -2,24 +2,24 @@
 <urlset xmlns="http://www.sitemaps.org/schemas/sitemap/0.9"
   xmlns:xhtml="http://www.w3.org/1999/xhtml">
   <url>
-    <loc>https://eda271.github.io/</loc>
+    <loc>https://example.com/</loc>
     <lastmod>2016-10-02T22:55:05-04:00</lastmod>
   </url><url>
-    <loc>https://eda271.github.io/categories/</loc>
+    <loc>https://example.com/categories/</loc>
     <lastmod>2016-10-02T22:55:05-04:00</lastmod>
   </url><url>
-    <loc>https://eda271.github.io/tags/projects/</loc>
+    <loc>https://example.com/tags/projects/</loc>
     <lastmod>2016-10-02T22:55:05-04:00</lastmod>
   </url><url>
-    <loc>https://eda271.github.io/categories/projects/</loc>
+    <loc>https://example.com/categories/projects/</loc>
     <lastmod>2016-10-02T22:55:05-04:00</lastmod>
   </url><url>
-    <loc>https://eda271.github.io/projects/</loc>
+    <loc>https://example.com/projects/</loc>
     <lastmod>2016-10-02T22:55:05-04:00</lastmod>
   </url><url>
-    <loc>https://eda271.github.io/tags/</loc>
+    <loc>https://example.com/tags/</loc>
     <lastmod>2016-10-02T22:55:05-04:00</lastmod>
   </url><url>
-    <loc>https://eda271.github.io/aboutme/</loc>
+    <loc>https://example.com/aboutme/</loc>
   </url>
 </urlset>
